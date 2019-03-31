@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Time    : 2019/3/31 20:12
 # Author  : zlich
-# Filename: camera_multiprocessing_1.py
+# Filename: camera_multiprocess.py
 import multiprocessing
 import cv2
 
