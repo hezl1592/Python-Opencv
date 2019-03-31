@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Time    : 2019/3/31 22:12
+# Time    : 2019/3/31 20:12
 # Author  : zlich
 # Filename: camera_multiprocessing_1.py
 import multiprocessing
